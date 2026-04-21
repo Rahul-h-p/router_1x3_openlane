@@ -1,0 +1,11 @@
+# Ignore large run artifacts
+runs/*/tmp/
+runs/*/results/magic/
+runs/*/results/spef/
+runs/*/logs/
+runs/*/tmp/
+
+# Keep these important outputs
+!runs/*/results/synthesis/*.v
+!runs/*/results/signoff/*.gds
+!runs/*/reports/

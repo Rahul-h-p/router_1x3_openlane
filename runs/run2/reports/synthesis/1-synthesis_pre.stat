@@ -1,0 +1,33 @@
+
+51. Printing statistics.
+
+=== router_1x3 ===
+
+   Number of wires:               1117
+   Number of wire bits:           1731
+   Number of public wires:          94
+   Number of public wire bits:     606
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               1663
+     $_ANDNOT_                     146
+     $_AND_                         51
+     $_DFFE_PP_                     11
+     $_DFF_P_                        8
+     $_MUX_                        467
+     $_NAND_                        23
+     $_NOR_                         21
+     $_NOT_                         21
+     $_ORNOT_                       50
+     $_OR_                         188
+     $_SDFFCE_PN0P_                432
+     $_SDFFE_PN0P_                  50
+     $_SDFFE_PP0N_                  15
+     $_SDFFE_PP0P_                  21
+     $_SDFFE_PP1P_                   1
+     $_SDFF_PN0_                    37
+     $_SDFF_PP0_                    18
+     $_XNOR_                         4
+     $_XOR_                         99
+

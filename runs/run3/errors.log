@@ -1,0 +1,2 @@
+[ERROR]: Failed to create manufacturability and metric reports:
+[ERROR]: Failed to extract runtime info for router_1x3/run3: Attempted to generate report on a non-finalized run.

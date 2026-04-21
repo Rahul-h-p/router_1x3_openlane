@@ -1,0 +1,19 @@
+Design Name: router_1x3
+Run Directory: /openlane/designs/router_1x3/runs/run3
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/router_1x3/runs/run3/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/router_1x3/runs/run3/logs/signoff/40-router_1x3.lef.lvs.log
+Number of nets: 3128                       |Number of nets: 3128                       
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/router_1x3/runs/run3/logs/signoff/29-arc.log
+Pin violations: 3
+Net violations: 3

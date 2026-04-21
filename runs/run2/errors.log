@@ -1,0 +1,15 @@
+[ERROR]: during executing openroad script /openlane/scripts/openroad/cts.tcl
+[ERROR]: Log: designs/router_1x3/runs/run2/logs/cts/7-cts.log
+[ERROR]: Last 10 lines:
+ _4868_
+ _4869_
+ _4870_
+ _4871_
+ _4872_
+ _4873_
+ _4874_
+[ERROR DPL-0033] detailed placement checks failed.
+DPL-0033
+child process exited abnormally
+
+[ERROR]: Creating issue reproducible...
