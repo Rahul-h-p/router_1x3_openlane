@@ -29,3 +29,7 @@ RTL → Synthesis → Floorplan → Placement → CTS → Routing → DRC → LV
 - Magic VLSI
 - OpenSTA
 - KLayout
+
+  ## Layout gds file
+  <img width="1479" height="1450" alt="router_1x3_layout" src="https://github.com/user-attachments/assets/9be5ee85-c8dd-495f-b4fa-f70226be202b" />
+
